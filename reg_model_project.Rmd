@@ -27,6 +27,7 @@ library(GGally)
 load("movies.Rdata")
 ```
 
+
 * * *
 
 ## Part 1: Data
